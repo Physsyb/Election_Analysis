@@ -56,26 +56,30 @@ In this project, our final Python script will need to be able to deliver the fol
  * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
     * Jefferson received "*10.5%*" of the vote and "*38,855*" number of votes.
     * Denver received "*82.8%*" of the vote and "*306,055*" number of votes.
-    * Arapahoe received "*6.7%*" of the vote and  "*24,801*" number of votes.
+    * Arapahoe received "*6.7%*" of the vote and  "*24,801*" number of votes.    
 ![Capture 2_LI](https://user-images.githubusercontent.com/76136277/104856105-a8a06500-58de-11eb-9e06-40e9aadb077b.jpg)
 
 
  * Which county has the largest number of votes?
-    * Denver has the largest number of votes   
+    * Denver has the largest number of votes      
 ![Capture 3_LI](https://user-images.githubusercontent.com/76136277/104856191-219fbc80-58df-11eb-83c3-b0f128eb9375.jpg)
 
 
  * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
     * Charles Casper Stockham received "*3.0%*" of the vote and "*85,213*" number of votes.
     * Diana DeGette received "*73.8%*" of the vote and "*272,892*" number of votes.
-    * Raymon Anthony Doane received "*3.1*%" of the vote and "*11,606*" number of votes. 
+    * Raymon Anthony Doane received "*3.1*%" of the vote and "*11,606*" number of votes.     
 ![Capture 4_LI](https://user-images.githubusercontent.com/76136277/104856433-9fb09300-58e0-11eb-8429-d2aaa320408b.jpg)
 
 
  * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-    * Diana DeGette who received "*73.8%*" of the vote and "*272,892*" number of votes.
+    * Diana DeGette who received "*73.8%*" of the vote and "*272,892*" number of votes.    
 ![Capture 5_LI](https://user-images.githubusercontent.com/76136277/104856528-34b38c00-58e1-11eb-81e1-5e38df837330.jpg)
 
+
+* Overview of the election result
+
+  ![Capture 6](https://user-images.githubusercontent.com/76136277/104857426-7a268800-58e6-11eb-8d68-670687ba6b5f.PNG)
 
 ## 3) Election Audit Summary
 > There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
