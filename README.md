@@ -33,7 +33,7 @@ The summary of the election shows that:
    
    The purpose of this challenge is to complete the audit with some additional data requested by the electoral commision. This will be achieved by working from the      module’s `election_results.csv`, use `for` loops and conditional statements with membership and logical operators to find the requested results. Then, print the results to the command line and save them to your `election_results.txt` file. The additional data required are:
    * The voter turnout for each county
-   * The percentage if votes from each county out of the total count
+   * The percentage of votes from each county out of the total count
    * The county with the highest turnout. 
    
 In this project, our final Python script will need to be able to deliver the following information when we `run` the script: 
@@ -83,5 +83,5 @@ In this project, our final Python script will need to be able to deliver the fol
 
 ## 3) Election Audit Summary
 > There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
-* If there are elections with more data like age and gendeer, the script can be modified to include these characteristics and the analysis can be broken down even further. The script can be modified to find the most number of votes by age and gender, other than candidates and county.
+* If there are elections with more data like age and gender, the script can be modified to include these characteristics and the analysis can be broken down even further. The script can be modified to find the most number of votes by age and gender, other than candidates and county.
 * This script can also be modified to determine patterns among the characteristics. We could test the percentage of voters by county against each candidate. This would allow us to see which candidate was the most popular within a county or geographical area.
